@@ -1,0 +1,25 @@
+{
+  "name": "service-desk-intl-dictionaries",
+  "version": "0.1.0",
+  "description": "Localized dictionaries for Service Desk",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://victor-homyakov@github.com/TargetProcess/service-desk-intl-dictionaries.git"
+  },
+  "keywords": [
+    "intl",
+    "Service",
+    "Desk",
+    "Transifex"
+  ],
+  "author": "Targetprocess",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TargetProcess/service-desk-intl-dictionaries/issues"
+  },
+  "homepage": "https://github.com/TargetProcess/service-desk-intl-dictionaries#readme"
+}
