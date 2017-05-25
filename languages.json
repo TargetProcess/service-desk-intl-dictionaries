@@ -1,1 +1,22 @@
-[]
+[
+  {
+    "code": "en",
+    "name": "English",
+    "stats": {
+      "totalTokensCount": 3,
+      "translatedTokensCount": 3,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 6
+    }
+  },
+  {
+    "code": "ru",
+    "name": "Russian",
+    "stats": {
+      "totalTokensCount": 3,
+      "translatedTokensCount": 3,
+      "reviewedTokensCount": 3,
+      "translatedWordsCount": 6
+    }
+  }
+]
