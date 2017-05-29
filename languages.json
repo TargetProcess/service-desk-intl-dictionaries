@@ -3,10 +3,10 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 3,
-      "translatedTokensCount": 3,
+      "totalTokensCount": 4,
+      "translatedTokensCount": 4,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 6
+      "translatedWordsCount": 11
     }
   },
   {
