@@ -13,10 +13,10 @@
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 3,
-      "translatedTokensCount": 3,
-      "reviewedTokensCount": 3,
-      "translatedWordsCount": 6
+      "totalTokensCount": 4,
+      "translatedTokensCount": 4,
+      "reviewedTokensCount": 4,
+      "translatedWordsCount": 11
     }
   }
 ]
