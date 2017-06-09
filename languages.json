@@ -3,20 +3,20 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 87,
-      "translatedTokensCount": 87,
+      "totalTokensCount": 140,
+      "translatedTokensCount": 140,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 293
+      "translatedWordsCount": 597
     }
   },
   {
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 87,
-      "translatedTokensCount": 29,
+      "totalTokensCount": 140,
+      "translatedTokensCount": 89,
       "reviewedTokensCount": 21,
-      "translatedWordsCount": 85
+      "translatedWordsCount": 270
     }
   }
 ]
