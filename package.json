@@ -1,6 +1,6 @@
 {
   "name": "service-desk-intl-dictionaries",
-  "version": "0.10.0",
+  "version": "0.11.0",
   "description": "Localized dictionaries for Service Desk",
   "main": "index.js",
   "scripts": {
