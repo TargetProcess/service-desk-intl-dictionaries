@@ -10,6 +10,16 @@
     }
   },
   {
+    "code": "no",
+    "name": "Norwegian",
+    "stats": {
+      "totalTokensCount": 141,
+      "translatedTokensCount": 70,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 168
+    }
+  },
+  {
     "code": "ru",
     "name": "Russian",
     "stats": {
