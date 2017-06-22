@@ -3,17 +3,17 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 141,
-      "translatedTokensCount": 141,
+      "totalTokensCount": 146,
+      "translatedTokensCount": 146,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 603
+      "translatedWordsCount": 628
     }
   },
   {
     "code": "no",
     "name": "Norwegian",
     "stats": {
-      "totalTokensCount": 141,
+      "totalTokensCount": 146,
       "translatedTokensCount": 70,
       "reviewedTokensCount": 0,
       "translatedWordsCount": 168
@@ -23,7 +23,7 @@
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 141,
+      "totalTokensCount": 146,
       "translatedTokensCount": 140,
       "reviewedTokensCount": 50,
       "translatedWordsCount": 596
