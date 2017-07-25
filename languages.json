@@ -1,32 +1,112 @@
 [
   {
+    "code": "nl",
+    "name": "Dutch",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 148,
+      "translatedWordsCount": 667
+    }
+  },
+  {
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 146,
-      "translatedTokensCount": 146,
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 628
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "fr",
+    "name": "French",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "de",
+    "name": "German",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 157,
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "hu",
+    "name": "Hungarian",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "it",
+    "name": "Italian",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 667
     }
   },
   {
     "code": "no",
     "name": "Norwegian",
     "stats": {
-      "totalTokensCount": 146,
-      "translatedTokensCount": 70,
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 168
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "pl",
+    "name": "Polish",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "pt-BR",
+    "name": "Portuguese (Brazil)",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 0,
+      "translatedWordsCount": 667
     }
   },
   {
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 146,
-      "translatedTokensCount": 140,
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
       "reviewedTokensCount": 50,
-      "translatedWordsCount": 596
+      "translatedWordsCount": 667
+    }
+  },
+  {
+    "code": "es",
+    "name": "Spanish",
+    "stats": {
+      "totalTokensCount": 157,
+      "translatedTokensCount": 157,
+      "reviewedTokensCount": 34,
+      "translatedWordsCount": 667
     }
   }
 ]
