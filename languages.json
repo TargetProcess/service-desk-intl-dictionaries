@@ -3,7 +3,7 @@
     "code": "nl",
     "name": "Dutch",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -13,17 +13,17 @@
     "code": "en",
     "name": "English",
     "stats": {
-      "totalTokensCount": 176,
-      "translatedTokensCount": 176,
+      "totalTokensCount": 197,
+      "translatedTokensCount": 197,
       "reviewedTokensCount": 0,
-      "translatedWordsCount": 747
+      "translatedWordsCount": 822
     }
   },
   {
     "code": "fr",
     "name": "French",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -33,7 +33,7 @@
     "code": "de",
     "name": "German",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -43,7 +43,7 @@
     "code": "hu",
     "name": "Hungarian",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -53,7 +53,7 @@
     "code": "it",
     "name": "Italian",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -63,7 +63,7 @@
     "code": "no",
     "name": "Norwegian",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 176,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 747
@@ -73,7 +73,7 @@
     "code": "pl",
     "name": "Polish",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 155,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 655
@@ -83,7 +83,7 @@
     "code": "pt-BR",
     "name": "Portuguese (Brazil)",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 155,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 655
@@ -93,17 +93,17 @@
     "code": "ru",
     "name": "Russian",
     "stats": {
-      "totalTokensCount": 176,
-      "translatedTokensCount": 176,
+      "totalTokensCount": 197,
+      "translatedTokensCount": 197,
       "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedWordsCount": 822
     }
   },
   {
     "code": "es",
     "name": "Spanish",
     "stats": {
-      "totalTokensCount": 176,
+      "totalTokensCount": 197,
       "translatedTokensCount": 155,
       "reviewedTokensCount": 155,
       "translatedWordsCount": 655
