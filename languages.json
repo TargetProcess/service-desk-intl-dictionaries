@@ -4,9 +4,9 @@
     "name": "Dutch",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -24,9 +24,9 @@
     "name": "French",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -34,9 +34,9 @@
     "name": "German",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -44,9 +44,9 @@
     "name": "Hungarian",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -54,9 +54,9 @@
     "name": "Italian",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -64,9 +64,9 @@
     "name": "Norwegian",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 176,
-      "reviewedTokensCount": 176,
-      "translatedWordsCount": 747
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -74,9 +74,9 @@
     "name": "Polish",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 155,
-      "reviewedTokensCount": 155,
-      "translatedWordsCount": 655
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -84,9 +84,9 @@
     "name": "Portuguese (Brazil)",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 155,
-      "reviewedTokensCount": 155,
-      "translatedWordsCount": 655
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   },
   {
@@ -104,9 +104,19 @@
     "name": "Spanish",
     "stats": {
       "totalTokensCount": 197,
-      "translatedTokensCount": 155,
-      "reviewedTokensCount": 155,
-      "translatedWordsCount": 655
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
+    }
+  },
+  {
+    "code": "sv",
+    "name": "Swedish",
+    "stats": {
+      "totalTokensCount": 197,
+      "translatedTokensCount": 197,
+      "reviewedTokensCount": 197,
+      "translatedWordsCount": 822
     }
   }
 ]
