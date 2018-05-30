@@ -4,9 +4,9 @@
     "name": "Dutch",
     "stats": {
       "totalTokensCount": 203,
-      "translatedTokensCount": 197,
+      "translatedTokensCount": 198,
       "reviewedTokensCount": 197,
-      "translatedWordsCount": 822
+      "translatedWordsCount": 824
     }
   },
   {
@@ -94,9 +94,9 @@
     "name": "Russian",
     "stats": {
       "totalTokensCount": 203,
-      "translatedTokensCount": 197,
-      "reviewedTokensCount": 197,
-      "translatedWordsCount": 822
+      "translatedTokensCount": 203,
+      "reviewedTokensCount": 203,
+      "translatedWordsCount": 853
     }
   },
   {
@@ -114,9 +114,9 @@
     "name": "Swedish",
     "stats": {
       "totalTokensCount": 203,
-      "translatedTokensCount": 197,
+      "translatedTokensCount": 203,
       "reviewedTokensCount": 197,
-      "translatedWordsCount": 822
+      "translatedWordsCount": 853
     }
   }
 ]
